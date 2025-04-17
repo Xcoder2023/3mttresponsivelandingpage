@@ -72,8 +72,8 @@ Let’s grow better—together.
 ## Contact
 
 - **Email:** xcoder2023@gmail.com  
-- **Twitter:** [@johncodedaily](https://twitter.com/mathybaba)  
-- **GitHub:** [github.com/johndoe](https://github.com/xcoder2023)
+- **Twitter:** [@mathybaba](https://twitter.com/mathybaba)  
+- **GitHub:** [github.com/xcoder2023](https://github.com/xcoder2023)
 
 
 ## Notes
